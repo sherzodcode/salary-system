@@ -1,0 +1,2 @@
+1. create `**/employees`** router and **emplyee.service** with functions for getAll, create, delete records
+2. create `**/salaries**` router and **salary.service** with functions for getAll, create, delete records
